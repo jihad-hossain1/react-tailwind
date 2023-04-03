@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "type": "Basic",
+      "monthly": 29.99,
+      "annual": 299,
+      "features": [
+        "Gym equipment",
+        "Locker rooms",
+        "Showers"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "Premium",
+      "monthly": 49.99,
+      "annual": 499,
+      "features": [
+        "Gym equipment",
+        "Locker rooms",
+        "Showers",
+        "Group classes",
+        "Personal training"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "Ultimate",
+      "monthly": 79.99,
+      "annual": 799,
+      "features": [
+        "Gym equipment",
+        "Locker rooms",
+        "Showers",
+        "Group classes",
+        "Personal training",
+        "Nutrition consultation"
+      ]
+    }
+  ]
+  
